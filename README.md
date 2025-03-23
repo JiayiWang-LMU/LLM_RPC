@@ -12,10 +12,10 @@ This project helps users compare the quality of expected results from Large Lang
 
 ## Examples
 
-**Prompt**: Explain antibiotics  
+**Prompt**: Explain antibiotics.  
 **LLM ranking**: claude-v1 > gpt-4 > gpt-3.5-turbo > vicuna-13b-v1.2 > alpaca-13b > llama-13b  
 
-**Prompt**: Plan a trip to Hawaii for me  
+**Prompt**: Plan a trip to Hawaii for me.  
 **LLM ranking**: gpt-4 > claude-v1 > gpt-3.5-turbo > vicuna-13b-v1.2 > alpaca-13b > llama-13b  
 
 **Prompt**: You have been tasked with designing a solar-powered water heating system for a residential building. Describe the key components and considerations you would include in your design. Design a five-step workflow.  
